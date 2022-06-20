@@ -35,7 +35,8 @@ p {
   width: 300px;
   border-radius: 10px;
   padding: 10px;
-  box-shadow: 0 0 32px var(--primary-grayish-blue);
+  background-color: var(--primary-white);
+  box-shadow: 0 0 24px var(--primary-grayish-blue);
 }
 
 .subtitle1 {
